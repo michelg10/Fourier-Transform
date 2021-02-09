@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		F078E6C2253ED2B8005BE1A6 /* Fourier Transform */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Fourier Transform"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F078E6C5253ED2B8005BE1A6 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		F0C44AB125D2303A00920FC0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +42,7 @@
 		F078E6B9253ED2B8005BE1A6 = {
 			isa = PBXGroup;
 			children = (
+				F0C44AB125D2303A00920FC0 /* LICENSE */,
 				F078E6C4253ED2B8005BE1A6 /* Fourier Transform */,
 				F078E6C3253ED2B8005BE1A6 /* Products */,
 			);
